@@ -1,0 +1,1 @@
+document.getElementsByClassName(".hamburger")[0].toggle("bars");
